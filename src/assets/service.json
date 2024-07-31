@@ -1,0 +1,28 @@
+[
+    { "slug": "wedding-events",
+      "title": "Weddings Events",
+      "description": "Celebrate your special day with our elegant wedding services. Our team of expert planners and chefs will work with you to create a memorable experience tailored to your preferences. From beautiful floral arrangements to exquisite menus, we handle every detail with precision and care. Whether you envision an intimate gathering or a grand celebration, we are dedicated to making your wedding day perfect. Our commitment to quality and attention to detail ensures that your special day is seamless and unforgettable.",
+      "image": "/product/wedding.jpg"
+    },
+    { "slug": "corporate-events",
+      "title": "Corporate Events",
+      "description": "Host professional corporate events with our top-notch services. We specialize in creating a sophisticated atmosphere that reflects your company’s image. Our services include everything from venue selection and décor to catering and audiovisual setup. We understand the importance of a well-executed event in enhancing your brand’s reputation. Our team is experienced in organizing conferences, seminars, product launches, and corporate parties, ensuring that each event runs smoothly and impresses your guests. Trust us to deliver a corporate event that is both professional and memorable.",
+      "image": "/product/corporate.jpg"
+    },
+    { "slug": "community-events",
+      "title": "Community Events",
+      "description": "Engage with the community through our well-organized events. Our community event services are designed to bring people together and foster a sense of belonging. We handle everything from planning and permits to logistics and entertainment. Whether it’s a festival, a charity event, or a community fair, we ensure that every detail is managed efficiently. Our goal is to create enjoyable and impactful events that strengthen community ties and create lasting memories. Let us help you organize a community event that leaves a positive impact on everyone involved.",
+      "image": "/product/community.jpg"
+    },
+    { "slug": "networking-events",
+      "title": "Networking Events",
+      "description": "Expand your network with our expertly managed networking events. We understand the importance of making meaningful connections in today’s professional landscape. Our services include selecting the perfect venue, organizing engaging activities, and providing high-quality catering. We focus on creating a comfortable and conducive environment for networking, ensuring that your guests can connect and collaborate effectively. Whether it’s a business mixer, a networking luncheon, or an industry conference, we are committed to facilitating valuable interactions that can lead to new opportunities and partnerships.",
+      "image": "/product/networking.jpg"
+    },
+    { "slug": "birthday-events",
+      "title": "Birthday Parties",
+      "description": "Celebrate birthdays in style with our fun and exciting parties. Our birthday party services are designed to create a memorable experience for guests of all ages. We offer a variety of themes and activities to choose from, ensuring that the party reflects the personality and preferences of the birthday person. From decorations and entertainment to food and cake, we handle all the details so you can enjoy the celebration. Our team is dedicated to making each birthday party unique and unforgettable, ensuring that your special day is filled with joy and laughter.",
+      "image": "/product/birthday.jpg"
+    }
+  ]
+  
